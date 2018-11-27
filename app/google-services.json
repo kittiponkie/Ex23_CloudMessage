@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760225215757",
+    "firebase_url": "https://ex23cloudmessage-3744f.firebaseio.com",
+    "project_id": "ex23cloudmessage-3744f",
+    "storage_bucket": "ex23cloudmessage-3744f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760225215757:android:af1aacc90e68de38",
+        "android_client_info": {
+          "package_name": "com.egco428.ex23_cloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760225215757-114ngesqcsbkgs6odtrkjd862a14kn03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egco428.ex23_cloudmessage",
+            "certificate_hash": "d6543cdeabd06deeda193d2024e312ed60687108"
+          }
+        },
+        {
+          "client_id": "760225215757-su6us6dk3dmvl70nks5009uv3o0ag4bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABQeRaTSeHQEekFNYOkMIQge9T_uSWi3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760225215757-su6us6dk3dmvl70nks5009uv3o0ag4bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
